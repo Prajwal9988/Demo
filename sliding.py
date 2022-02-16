@@ -54,6 +54,6 @@
 #         merged.append(right[j])
 #         j+=1
 #     return merged
-# print(mergeSort([2,4,5,6,2,1,4,1,1,5]))
+
 
          
